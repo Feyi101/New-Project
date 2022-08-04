@@ -1,0 +1,42 @@
+h1 ul li{
+    text-align: right;
+   background:rgb(137, 141, 146);
+   border: 50px;
+   position: relative;
+   list-style: none;
+   display: inline-table;   
+}
+body first-letter{
+    font-weight: 700;
+   font size 70px;
+   color: bluecode;
+} ;
+
+h1 ul after{
+    content: "";
+    color: both;
+    display: block;
+
+}
+
+h1 ul li{
+    float: left;
+}
+
+h1 ul li {
+    display: block;
+    padding: 15px 50px;
+    color: #dbe6e6e0;
+    text-decoration: none;
+}
+
+h1 ul li hover{
+    background: #4881c7;
+    color: #fff;
+}
+
+div {
+    padding: 50px;
+    border: 20px;
+    border-color: rgba(187, 8, 17, 0.2);
+}
